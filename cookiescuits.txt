@@ -1,7 +1,7 @@
 Miam les cookies sont prêts
 Bon appétit!
-<<<<<<< HEAD
+HEAD
 Je modifie qqchose, dressage plat
-=======
+
 BOn appétit (vrai changement)
->>>>>>> e5da912f5872b9a7e0adda050572c942b67ee461
+ e5da912f5872b9a7e0adda050572c942b67ee461
